@@ -1,4 +1,6 @@
-# Graph Neural Networks Explained by Cuneyt Akcora and Baris Coskunuzer
+# Graph Neural Networks Explained<br>
+by [Cuneyt Akcora](https://cakcora.github.io/) and [Baris Coskunuzer](https://personal.utdallas.edu/~coskunuz/)
+
 
 **On Over-Squashing in Message Passing Neural Networks: The Impact of Width, Depth, and Topology by Francesco Di Giovanni, Lorenzo Giusti, Federico Barbero, Giulia Luise, Pietro Lio, Michael Bronstein.** [Link to the review page](reviews/overSquashing.md)<br>
 **Venue**: ICML 2023<br>
